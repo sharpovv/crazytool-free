@@ -108,7 +108,7 @@ func dos(url string, wg *sync.WaitGroup) {
 	if res.StatusCode != 200 {
 		fmt.Println("Ошибка", res.StatusCode)
 	}
-	red.Print(res.Status)
+	red.Println(res.StatusCode)
 }
 
 func main() {
