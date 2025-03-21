@@ -44,6 +44,6 @@ CrazyTOOL FREE включает в себя 3 основных режима ра
 ---
 
 <div align="center">
-  <p>Разработано с ❤️ <a href="https://t.me/sharpovv">@sharpovv</a></p>
+  <p>Разработчик: <a href="https://t.me/sharpovv">@sharpovv</a></p>
   <p>Подписывайтесь на канал: <a href="https://t.me/crazysofts_4">@crazysofts_4</a></p>
 </div>
