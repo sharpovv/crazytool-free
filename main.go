@@ -172,7 +172,7 @@ func main() {
 		time.Sleep(time.Second * 3)
 		main()
 	case "4":
-		red.Println("")
+		red.Println("Исходный код доступен на: github.com/sharpovv/crazytool-free/")
 	case "5":
 		red.Println(`
 Разработчик: @sharpovv
